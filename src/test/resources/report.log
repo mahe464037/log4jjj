@@ -1,0 +1,42 @@
+2019-02-16 15:59:28 INFO  Log44jmaven:29 - browser opened successfully
+2019-02-16 15:59:30 DEBUG Log44jmaven:35 - debugging the url
+2019-02-16 16:03:04 INFO  Log44jmaven:44 - login successfull
+2019-02-16 16:04:14 INFO  Log44jmaven:29 - browser opened successfully
+2019-02-16 16:04:18 DEBUG Log44jmaven:35 - debugging the url
+2019-02-16 16:04:27 INFO  Log44jmaven:44 - login successfull
+2019-02-16 16:04:31 WARN  Log44jmaven:53 - enter valid password
+2019-02-16 16:04:31 ERROR Log44jmaven:54 - password is wrong
+2019-02-16 16:15:22 INFO  Log44jmaven:31 - browser opened successfully
+2019-02-16 16:15:24 DEBUG Log44jmaven:37 - debugging the url
+2019-02-16 16:15:58 INFO  Log44jmaven:46 - login successfull
+2019-02-16 16:16:02 WARN  Log44jmaven:55 - enter valid password
+2019-02-16 16:16:02 ERROR Log44jmaven:56 - password is wrong
+2019-02-16 16:26:01 INFO  Log44jmaven:30 - browser opened successfully
+2019-02-16 16:26:03 DEBUG Log44jmaven:36 - debugging the url
+2019-02-16 16:28:58 INFO  Log44jmaven:45 - login successfull
+2019-02-16 16:30:35 INFO  Log44jmaven:30 - browser opened successfully
+2019-02-16 16:30:38 DEBUG Log44jmaven:36 - debugging the url
+2019-02-16 16:31:34 INFO  Log44jmaven:45 - login successfull
+2019-02-16 16:31:38 WARN  Log44jmaven:54 - enter valid password
+2019-02-16 16:31:38 ERROR Log44jmaven:55 - password is wrong
+2019-02-20 16:15:14 INFO  Log44jmaven:30 - browser opened successfully
+2019-02-20 16:15:19 DEBUG Log44jmaven:36 - debugging the url
+2019-02-20 16:15:31 INFO  Log44jmaven:45 - login successfull
+2019-02-20 16:15:37 WARN  Log44jmaven:54 - enter valid password
+2019-02-20 16:15:37 ERROR Log44jmaven:55 - password is wrong
+2019-02-20 16:27:41 INFO  Log44jmaven:30 - browser opened successfully
+2019-02-20 16:27:50 DEBUG Log44jmaven:36 - debugging the url
+2019-02-20 16:28:03 INFO  Log44jmaven:45 - login successfull
+2019-02-20 16:28:09 WARN  Log44jmaven:54 - enter valid password
+2019-02-20 16:28:09 ERROR Log44jmaven:55 - password is wrong
+2019-02-20 17:28:17 INFO  Log44jmaven:30 - browser opened successfully
+2019-02-20 17:28:19 DEBUG Log44jmaven:36 - debugging the url
+2019-02-20 17:29:24 INFO  Log44jmaven:45 - login successfull
+2019-02-20 17:29:29 WARN  Log44jmaven:54 - enter valid password
+2019-02-20 17:29:29 ERROR Log44jmaven:55 - password is wrong
+2019-03-04 15:57:38 INFO  Log44jmaven:30 - browser opened successfully
+2019-03-04 15:57:40 DEBUG Log44jmaven:36 - debugging the url
+2019-03-04 16:01:03 INFO  Log44jmaven:45 - login successfull
+2019-03-04 16:01:09 WARN  Log44jmaven:54 - enter valid password
+2019-03-04 16:01:09 ERROR Log44jmaven:55 - password is wrong
+2019-04-22 12:41:55 INFO  Log44jmaven:30 - browser opened successfully

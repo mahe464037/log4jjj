@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66518" started-at="2019-02-16T11:00:32Z" finished-at="2019-02-16T11:01:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66518" started-at="2019-02-16T11:00:32Z" finished-at="2019-02-16T11:01:39Z">
+      <class name="com.model.maven.Log44jmaven">
+        <test-method status="PASS" signature="openbrowser()[pri:1, instance:com.model.maven.Log44jmaven@13a5fe33]" name="openbrowser" duration-ms="2967" started-at="2019-02-16T11:00:32Z" finished-at="2019-02-16T11:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="capturescreenshot()[pri:0, instance:com.model.maven.Log44jmaven@13a5fe33]" name="capturescreenshot" is-config="true" duration-ms="414" started-at="2019-02-16T11:00:35Z" finished-at="2019-02-16T11:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturescreenshot -->
+        <test-method status="PASS" signature="enterurl()[pri:2, instance:com.model.maven.Log44jmaven@13a5fe33]" name="enterurl" duration-ms="3327" started-at="2019-02-16T11:00:36Z" finished-at="2019-02-16T11:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterurl -->
+        <test-method status="PASS" signature="capturescreenshot()[pri:0, instance:com.model.maven.Log44jmaven@13a5fe33]" name="capturescreenshot" is-config="true" duration-ms="573" started-at="2019-02-16T11:00:39Z" finished-at="2019-02-16T11:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturescreenshot -->
+        <test-method status="PASS" signature="loginwithvalidds()[pri:3, instance:com.model.maven.Log44jmaven@13a5fe33]" name="loginwithvalidds" duration-ms="56279" started-at="2019-02-16T11:00:40Z" finished-at="2019-02-16T11:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidds -->
+        <test-method status="PASS" signature="capturescreenshot()[pri:0, instance:com.model.maven.Log44jmaven@13a5fe33]" name="capturescreenshot" is-config="true" duration-ms="437" started-at="2019-02-16T11:01:36Z" finished-at="2019-02-16T11:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturescreenshot -->
+        <test-method status="PASS" signature="loginwithinvalidds()[pri:4, instance:com.model.maven.Log44jmaven@13a5fe33]" name="loginwithinvalidds" duration-ms="2026" started-at="2019-02-16T11:01:36Z" finished-at="2019-02-16T11:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalidds -->
+        <test-method status="PASS" signature="capturescreenshot()[pri:0, instance:com.model.maven.Log44jmaven@13a5fe33]" name="capturescreenshot" is-config="true" duration-ms="434" started-at="2019-02-16T11:01:38Z" finished-at="2019-02-16T11:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturescreenshot -->
+      </class> <!-- com.model.maven.Log44jmaven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
